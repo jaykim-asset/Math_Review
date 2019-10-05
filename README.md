@@ -1,5 +1,5 @@
 # Math_Review
-Math_Review
+Math_Review (Hand-Writing and Python Code)
 - starting from 2019/10/04, I am reviewing math that I have learned from Dr.Joel Kim (https://datascienceschool.net).
   - Chapter 1. Basic Math
   - Chapter 2. Linear Algebra - Numpy used
